@@ -194,7 +194,7 @@ class UploaderListener implements EventSubscriber
                      elseif(is_null($file)){
                          $fileNameByWebDir = $_SERVER['DOCUMENT_ROOT'].$currentFileData['path'];
                          $this->fileStorage->removeFile($fileNameByWebDir);
-                         $mapping->setFileDataPropertyValue($file);
+                         $mapping->setFileDataPropertyValue(null);
                      }
                      //Preserve old fileData if current file exist
                     else $mapping->setFileDataPropertyValue($currentFileData);
