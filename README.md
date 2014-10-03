@@ -1,5 +1,6 @@
 IphpFileStoreBundle - Symfony 2 Doctrine ORM file upload bundle 
 ===================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/Rigiytip/IphpFileStoreBundle?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [![Build Status](https://api.travis-ci.org/vitiko/IphpFileStoreBundle.png?branch=master)](http://travis-ci.org/vitiko/IphpFileStoreBundle)
 [![Total Downloads](https://poser.pugx.org/iphp/filestore-bundle/downloads.png)](https://packagist.org/packages/iphp/filestore-bundle)
